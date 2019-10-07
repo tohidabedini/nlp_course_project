@@ -1,0 +1,2 @@
+In this part I have generated a list of suitable random numbers and paired them then chosen those lines of file for the test part else for the train part.
+Code can be run simply without any special thing and two file for each label will be generated in the proper folder

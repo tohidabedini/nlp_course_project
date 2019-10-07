@@ -1,0 +1,1 @@
+In this part I have scraped the raw data with scraper.py using special html class and tags of desired part of page and written each part in a line of related file.
